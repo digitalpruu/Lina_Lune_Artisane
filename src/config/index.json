@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+1 450-521-5720 / +573102845032 ",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "linalunahdz@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "lina.lune.artisane",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Lina Luné",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
