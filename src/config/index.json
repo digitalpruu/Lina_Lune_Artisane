@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "lina.lune.artisane",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/lina.lune.artisane?igsh=azJob2FsbWYyaTNu"
       },
       {
         "name": "Facebook",
         "description": "Lina Luné",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/share/KsYv7mLW8hfDqXDK/?mibextid=LQQJ4d"
       }
     ]
   },
